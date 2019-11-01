@@ -10,4 +10,9 @@
 
 * Used as workaround for damaged Fluke’s ASIC (Discrete Dual Slope A/D)
 
+For LED wirig diagram chek ARTIC project:
+https://github.com/mikikg/artic
+
 ![alt text](https://github.com/mikikg/7segAD/blob/master/doc/stm32-fluke.png)
+
+
